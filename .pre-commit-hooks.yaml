@@ -5,7 +5,6 @@
     language: rust
     types: [sql]
 
-
 -   id: sqruff-format
     name: Run sqruff formatter
     description: This hook runs the sqruff formatter
