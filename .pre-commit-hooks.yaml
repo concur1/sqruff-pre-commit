@@ -1,6 +1,6 @@
--   id: run sqruff
+-   id: sqruff
     name: Run sqruff formatter
     description: This hook runs the sqruff formatter
     entry: sqruff lint
     language: python
-    types_or: [file]
+    types: [file]
