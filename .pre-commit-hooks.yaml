@@ -1,6 +1,6 @@
 -   id: run sqruff
     name: Run sqruff formatter
     description: This hook runs the sqruff formatter
-    entry: sqruff fix
+    entry: sqruff lint
     language: python
     types: [sql]
