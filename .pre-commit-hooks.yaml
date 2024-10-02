@@ -3,4 +3,4 @@
     description: This hook runs the sqruff formatter
     entry: sqruff lint
     language: python
-    types_or: [sql]
+    types_or: [file]
