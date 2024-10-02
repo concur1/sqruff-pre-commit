@@ -1,6 +1,13 @@
--   id: sqruff
+-   id: sqruff-lint
+    name: Run sqruff linter
+    description: This hook runs the sqruff linter
+    entry: sqruff lint
+    language: rust
+    types: [sql]
+
+-   id: sqruff-format
     name: Run sqruff formatter
     description: This hook runs the sqruff formatter
-    entry: sqruff lint
+    entry: sqruff fix --force
     language: rust
     types: [sql]
