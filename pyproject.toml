@@ -1,0 +1,6 @@
+[project]
+name = "ruff-pre-commit"
+version = "0.17.0"
+dependencies = [
+    "sqruff==0.17.0",
+]
