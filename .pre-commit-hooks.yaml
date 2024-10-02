@@ -2,5 +2,5 @@
     name: Run sqruff formatter
     description: This hook runs the sqruff formatter
     entry: sqruff fix
-    language: rust
-    types: [text]
+    language: python
+    types: [sql]
