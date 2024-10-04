@@ -6,7 +6,7 @@
     types: [sql]
 
 
--   id: sqruff-format
+-   id: sqruff-fix
     name: Run sqruff formatter
     description: This hook runs the sqruff formatter
     entry: sqruff fix --force
