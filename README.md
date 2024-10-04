@@ -11,7 +11,7 @@ To run Ruff's [linter](https://docs.astral.sh/ruff/linter) and [formatter](https
 repos:
 - repo: https://github.com/concur1/sqruff-pre-commit
   # Ruff version.
-  rev: v0.18.0
+  rev: v0.17.0
   hooks:
     # Run the formatter.
     - id: sqruff-fix
