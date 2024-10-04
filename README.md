@@ -1,11 +1,6 @@
-# sqruff-pre-commit
+# Sqruff-pre-commit
 
-[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/quarylabs/sqruff)
-[![image](https://img.shields.io/pypi/v/sqruff/0.18.0.svg)](https://pypi.python.org/pypi/sqruff)
-[![image](https://img.shields.io/pypi/l/sqruff/0.18.0.svg)](https://pypi.python.org/pypi/sqruff)
-[![image](https://img.shields.io/pypi/pyversions/sqruff/0.18.0.svg)](https://pypi.python.org/pypi/sqruff)
-
-A [pre-commit](https://pre-commit.com/) hook for [Ruff](https://github.com/quarylabs/sqruff).
+A [pre-commit](https://pre-commit.com/) hook for [Sqruff](https://github.com/quarylabs/sqruff).
 
 ### Using sqruff with pre-commit
 
