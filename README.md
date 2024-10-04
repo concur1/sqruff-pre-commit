@@ -4,8 +4,7 @@ A [pre-commit](https://pre-commit.com/) hook for [Sqruff](https://github.com/qua
 
 ### Using sqruff with pre-commit
 
-To run Ruff's [linter](https://docs.astral.sh/ruff/linter) and [formatter](https://docs.astral.sh/ruff/formatter)
-(available as of Ruff v0.0.289) via pre-commit, add the following to your `.pre-commit-config.yaml`:
+To run Sqruff's linter and formatter via pre-commit, add the following to your `.pre-commit-config.yaml`:
 
 ```yaml
 repos:
