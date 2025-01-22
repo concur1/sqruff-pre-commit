@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      deployments: write
     steps:
       - if: ${{ startsWith(github.event_name, 'repository_dispatch') }}
         run: sleep 30
