@@ -4,6 +4,7 @@
     entry: sqruff lint
     language: python
     types: [sql]
+    args: []
 
 
 -   id: sqruff-fix
@@ -12,3 +13,4 @@
     entry: sqruff fix --force
     language: python
     types: [sql]
+    args: []
