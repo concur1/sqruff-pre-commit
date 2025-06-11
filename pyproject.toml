@@ -2,5 +2,5 @@
 name = "sqruff-pre-commit"
 version = "0.0.0"
 dependencies = [
-    "sqruff==0.26.5",
+    "sqruff==0.26.6",
 ]
