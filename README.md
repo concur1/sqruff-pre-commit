@@ -10,7 +10,7 @@ To run Sqruff's linter and formatter via pre-commit, add the following to your `
 repos:
 - repo: https://github.com/concur1/sqruff-pre-commit
   # Ruff version.
-  rev: v0.26.7
+  rev: v0.26.8
   hooks:
     # Run the formatter.
     - id: sqruff-fix
